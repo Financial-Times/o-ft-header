@@ -2,8 +2,8 @@
     "description": "Responsive Financial Times page header",
     "origamiType": "module",
     "origamiVersion": 1,
-    "support": "alberto.elias@ft.com",
-    "supportStatus": "active",
+    "support": "https://github.com/Financial-Times/o-header/issues",
+    "supportStatus": "deprecated",
     "browserFeatures": {
         "required": [
             "classList",
